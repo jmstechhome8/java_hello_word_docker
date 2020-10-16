@@ -4,5 +4,7 @@ public class HelloWorld {
     System.out.println("Hello, Devops Guys");
     System.out.println("Hello, Devops Guys");
     System.out.println("Hello, Devops Guys");
+    System.out.println("Hello, Devops Guys");
+    System.out.println("happy .........weekend");
   }
 }
